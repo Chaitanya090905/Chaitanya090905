@@ -193,7 +193,7 @@ I'm interested in collaborating on:
   <a href="https://www.chaitanyahiran.work">
     <img src="https://img.shields.io/badge/Portfolio-chaitanyahiran.work-black?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/chaitanya-h-535132257">
     <img src="https://img.shields.io/badge/LinkedIn-Chaitanya%20H-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:chaitanyahiran09@gmail.com">
