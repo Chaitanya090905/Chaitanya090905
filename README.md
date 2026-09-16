@@ -6,7 +6,7 @@
   <a href="https://www.chaitanyahiran.work">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" />
   </a>
-  <a href=""https://www.linkedin.com/in/chaitanya-h-535132257/">">
+  <a href="https://www.linkedin.com/in/chaitanya-h-535132257">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:chaitanyahiran09@gmail.com">
