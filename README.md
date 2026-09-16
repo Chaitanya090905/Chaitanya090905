@@ -147,14 +147,22 @@ Fine-tuned **Mistral-7B using LoRA + PEFT and 4-bit quantization**.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chaitanya090905&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya090905&layout=compact&hide_border=true&theme=transparent" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Chaitanya090905&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya090905&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chaitanya090905&theme=transparent&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Chaitanya090905&hide_border=true&background=00000000&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF"
+    height="180"
+  />
 </p>
-
 ---
 
 # 🐍 Contribution Snake
